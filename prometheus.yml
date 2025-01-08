@@ -1,8 +1,1 @@
-global:
-  scrape_interval: 15s
-  evaluation_interval: 15s
-
-scrape_configs:
-  - job_name: 'prometheus'
-    static_configs:  
-      - targets: ['localhost:9090']
+{"content":"Z2xvYmFsOgogIHNjcmFwZV9pbnRlcnZhbDogMTVzCiAgZXZhbHVhdGlvbl9pbnRlcnZhbDogMTVzCgpzY3JhcGVfY29uZmlnczoKICAtIGpvYl9uYW1lOiAncHJvbWV0aGV1cycKICAgIHN0YXRpY19jb25maWdzOgogICAgICAtIHRhcmdldHM6IFsnbG9jYWxob3N0OjkwOTAnXQo=", "encoding":"base64"}
